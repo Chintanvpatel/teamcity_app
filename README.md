@@ -1,2 +1,2 @@
-# teamcity_app
-Test Teamcity Integration for first time.
+# Teamcity application  
+Initial deployment test
