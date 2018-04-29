@@ -1,0 +1,3 @@
+web:
+  image: application.azurecr.io/nginx:1
+  command: [nginx, '-g', 'daemon off;']
