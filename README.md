@@ -1,2 +1,2 @@
 # Teamcity application  
-Initial deployment test
+Initial docker deployment test
